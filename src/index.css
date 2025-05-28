@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, /* ... */ sans-serif;
+  background-color: #FFFFFF; /* White */
+  color: #000000; /* Black */
+  overflow-x: hidden; 
+}
+.prose a { /* For blog content if using @tailwindcss/typography */
+    color: #374151; /* gray-700 */
+}
+.prose a:hover {
+    color: #000000; /* black */
+}
