@@ -4,7 +4,7 @@ import React from 'react';
 import AnimatedSection from '../components/AnimatedSection'; // Assuming AnimatedSection.jsx is in src/components/
 
 // IMPORTANT: Replace 'youremail@example.com' with your actual email address
-const CONTACT_EMAIL_ADDRESS = 'youremail@example.com'; 
+const CONTACT_EMAIL_ADDRESS = 'soyeshxrestha@gmail.com'; 
 
 const HomePage = () => {
 
