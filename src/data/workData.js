@@ -6,28 +6,28 @@ export const mockWorkItems = [
   {
     id: 1,
     title: 'Gadgetify',
-    description: 'The Gadgetify is a E-commerces website featuring gadgets',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVJ-muGAPWqrl6_y5KeoGtIBzBK8vUx_VYRA&s', // Light placeholder
+    description: 'The Gadgetify is a E-commerces website featuring gadgets.',
+    imageUrl: 'https://themefisher.com/blog/flipmart.webp', // Light placeholder
     tech: ['React', 'Node js', 'MongoDB'],
     liveUrl: '#', // Replace with actual URL or remove if not applicable
     codeUrl: 'https://github.com/soyesh-1/Gadgetify_Frontend.git', // Replace with actual URL or remove if not applicable
   },
   {
     id: 2,
-    title: 'Task Management App',
-    description: 'A concept for a sleek and intuitive task manager built with modern frontend principles.',
-    imageUrl: 'https://placehold.co/600x400/F3F4F6/111827?text=Work+Beta', // Light placeholder
-    tech: ['React', 'Tailwind CSS', 'Firebase (concept)'],
+    title: 'Gadgetify Flutter',
+    description: 'The Gadgetify is a E-commerces website featuring gadgets.',
+    imageUrl: 'https://miro.medium.com/v2/resize:fit:800/1*3-M8z7qtE32OgRGQEBSX-Q.png',
+    tech: ['Flutter', 'Dart'],
     liveUrl: null, // Example: No live URL
-    codeUrl: '#',
+    codeUrl: 'https://github.com/soyesh-1/Gadgetify.git',
   },
   {
     id: 3,
-    title: 'E-commerce UI Kit',
+    title: 'TO-DO App',
     description: 'Designed and developed a reusable UI component library for e-commerce applications.',
-    imageUrl: 'https://placehold.co/600x400/E5E7EB/1F2937?text=Work+Gamma', // Light placeholder
-    tech: ['React', 'Storybook', 'Styled Components'],
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcqpo3CIetghi5saKN5uBQ1w-9MB0klYvbJg&s', // Light placeholder
+    tech: ['Kotlin'],
     liveUrl: '#',
-    codeUrl: null, // Example: No code URL
+    codeUrl: 'https://github.com/soyesh-1/KotlinTask.git', // Example: No code URL
   },
 ];
