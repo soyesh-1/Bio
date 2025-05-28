@@ -5,12 +5,12 @@
 export const mockWorkItems = [
   {
     id: 1,
-    title: 'Portfolio Website Mk.I',
-    description: 'The first iteration of my personal portfolio, showcasing foundational web development skills.',
-    imageUrl: 'https://placehold.co/600x400/E5E7EB/1F2937?text=Work+Alpha', // Light placeholder
-    tech: ['HTML', 'CSS', 'JavaScript'],
+    title: 'Gadgetify',
+    description: 'The Gadgetify is a E-commerces website featuring gadgets',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVJ-muGAPWqrl6_y5KeoGtIBzBK8vUx_VYRA&s', // Light placeholder
+    tech: ['React', 'Node js', 'MongoDB'],
     liveUrl: '#', // Replace with actual URL or remove if not applicable
-    codeUrl: '#', // Replace with actual URL or remove if not applicable
+    codeUrl: 'https://github.com/soyesh-1/Gadgetify_Frontend.git', // Replace with actual URL or remove if not applicable
   },
   {
     id: 2,
